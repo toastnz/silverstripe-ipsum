@@ -1,10 +1,10 @@
 {
-  "name": "toastnz/toast-seo",
-  "description": "Silverstripe Seo Module",
+  "name": "toastnz/silverstripe-ipsum",
+  "description": "Silverstripe Ipsum Generator Module",
   "type": "silverstripe-module",
   "keywords": [
     "silverstripe",
-    "SEO"
+    "ipsum"
   ],
   "license": "BSD-3-Clause",
   "authors": [
