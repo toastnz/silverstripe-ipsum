@@ -4,7 +4,9 @@
 
 # Silverstripe Ipsum Generator
 
-Simple Module to add ipsum generators to your templates
+Simple Module to add ipsum generators to your templates.
+
+All credit here : https://github.com/joshtronic/php-loremipsum
 
 ## Installation
 
