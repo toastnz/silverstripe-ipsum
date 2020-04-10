@@ -1,4 +1,6 @@
 <?php
+namespace ToastNZ\LoremIpsum;
+use SilverStripe\ORM\DataExtension;
 
 /**
  * Pinc

@@ -19,10 +19,11 @@ Get the goodness just like so:
 Then use like this:
 
 ```
-    $ipsum('word') 
-    $ipsum('words',10)
-    $ipsum('paragraphs',30)
-    $ipsum('image', 300,150)
+    Single word:   $ipsum('word') 
+    Ten words:     $ipsum('words',10)
+    30 paragraphs: $ipsum('paragraphs',30).RAW
+    One image URL: $ipsum('image', 300,150)
+    One image:     $ipsum('image', 300,150,1).RAW
 ```
 
 Step 4: Profit
